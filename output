@@ -1,0 +1,12 @@
+output of the code:
+
+Enter student grades (-1 to stop): 
+85
+90
+78
+92
+88
+-1
+Average Grade: 86.6
+Highest Grade: 92
+Lowest Grade: 78
